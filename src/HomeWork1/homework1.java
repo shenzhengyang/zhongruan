@@ -1,5 +1,5 @@
 //(1)定义一个五位整数，求各个位上的数的和
-package HomeWork;
+package HomeWork1;
 
 public class homework1 {
     public static int x=12345;

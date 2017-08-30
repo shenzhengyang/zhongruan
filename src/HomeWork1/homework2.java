@@ -1,5 +1,5 @@
 //(2)定义两个int变量并初始化，将这两个数据交换位置后,输出显示交换后的数据.
-package HomeWork;
+package HomeWork1;
 
 public class homework2 {
 	
